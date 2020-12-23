@@ -2,7 +2,7 @@
   Simple api to connect to https://www.coingecko.com/en/api and perform some little stuff.
 
 ### Install the project
-  Clone the project into a new folder. Inside the same folder open a command prompt and run
+  Clone the project into a new folder. Inside the ./server folder open a command prompt and run
 
     npm install
   
